@@ -1,0 +1,29 @@
+VENDOR SERVICE AGREEMENT
+
+This Agreement is made on 01 January 2024 between ABC Technologies Pvt Ltd, having its registered office in Bangalore, India ("Company") and XYZ Solutions, having its registered office in Chennai, India ("Vendor").
+
+1. SERVICES
+The Vendor shall provide software development and maintenance services to the Company as per the specifications agreed in writing.
+
+2. PAYMENT TERMS
+The Company shall pay the Vendor an amount of INR 5,00,000 within 30 days from the date of invoice.
+
+3. OBLIGATIONS
+The Vendor shall complete all deliverables within the agreed timelines and shall be solely responsible for any delay.
+
+4. INDEMNITY
+The Vendor shall indemnify and hold harmless the Company against all losses, damages, claims, and expenses arising out of this Agreement.
+
+5. TERMINATION
+The Company may terminate this Agreement at any time without notice. The Vendor shall not have any right to claim compensation upon termination.
+
+6. CONFIDENTIALITY
+The Vendor shall keep all information confidential during and after the term of this Agreement.
+
+7. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of India.
+
+8. JURISDICTION
+The courts of Bangalore shall have exclusive jurisdiction.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement on the date first written above.
