@@ -12,10 +12,10 @@ def translate_hi_to_en(text: str) -> str:
     return tokenizer.decode(translated[0], skip_special_tokens=True)
 
 def normalize(text: str) -> str:
-    try:
-        if detect(text) == "hi":
-            return translate_hi_to_en(text)
-        return text
-    except Exception:
-        # Fail-safe: never crash Streamlit
-        return text
+    """
+    Deployment-safe normalizer.
+    Hindi translation is disabled in cloud deployment
+    due to model and Python version limitations.
+    """
+    return text
+v
