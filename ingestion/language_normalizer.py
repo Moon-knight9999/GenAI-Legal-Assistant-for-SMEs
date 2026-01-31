@@ -6,4 +6,3 @@ def normalize(text: str) -> str:
     due to model and Python version limitations.
     """
     return text
-v
